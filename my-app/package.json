@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ElaineYuanyt.github.io/FrontendApp_CS409",
+  "homepage": "https://ElaineYuanyt.github.io/mp2",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
