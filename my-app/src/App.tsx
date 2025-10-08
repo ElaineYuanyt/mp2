@@ -7,7 +7,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router basename="/FrontendApp_CS409">
+    <Router basename="/mp2">
       <div className="App">
         <nav className="navbar">
           <div className="nav-brand">
